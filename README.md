@@ -2,7 +2,7 @@
 
 ## I am AI software engineer Shingu college
 
-## 안녕하세요 서강준학생입니다.
+안녕하세요 서강준학생입니다.
 
 <!--
 **skj0917/skj0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
